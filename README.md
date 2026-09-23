@@ -2,6 +2,9 @@
 
 A lightweight AI-powered travel planner built with Streamlit and Google Generative AI. It is designed to help travelers explore destinations, build itineraries, and get quick travel guidance in a friendly, visual interface.
 
+## Websitelink
+Url: https://mypersonaltravelassistant.streamlit.app/
+
 ## Features
 
 - AI travel recommendations and trip planning
