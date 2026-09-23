@@ -6,6 +6,11 @@ import time
 load_dotenv()
 
 client = genai.Client()
+st.set_page_config(
+    page_title="Tanay's Travel Assistant",      # This changes the browser tab text
+    page_icon="🚀",                  # Optional: Changes the browser tab favicon
+    layout="centered"                   # Optional: "centered" or "wide"
+)
 
 st.markdown(
     """
